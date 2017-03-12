@@ -28,3 +28,4 @@ for path in xpaths:
 		urllib.urlretrieve(imgPath,"spider_img/%s"%imgName)
 	except:
 			pass
+print('学不好python的另一个原因，因为有个逗比')
